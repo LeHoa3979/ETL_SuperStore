@@ -32,7 +32,7 @@ The project follows a structured ETL pipeline:
 This project demonstrates an end-to-end ETL process, from raw data extraction to business intelligence reporting. It highlights the power of **Python, SQL Server, and Power BI** in building scalable analytics solutions for decision-making.  
 
 ## **Dashboards**  
-🚀 ![Image](https://github.com/user-attachments/assets/bc496681-b682-4274-ac13-60b7195089ec)
+![Image](https://github.com/user-attachments/assets/944d4bdf-efc0-408e-a865-227fd2342768)
 
 ---
 
